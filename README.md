@@ -4,6 +4,20 @@ Automated system that generates blog and newsletter content with AI, syncs with 
 
 ⸻
 
+🌱Assumptions
+
+Content Type
+
+- Focus on educational + AI workflow insights (thought-leadership style).
+- Mix: 70% educational, 20% product, 10% community/brand stories.
+- Emphasize short, scannable formats (3–4 min reads, visuals, key takeaways).
+
+Frequency
+
+- Weekly send (e.g., Thursdays 9 AM).
+- Monthly recap highlighting top content & insights.
+- Quarterly refresh to test tone, layout, or segmentation.
+
 ⚙️ Architecture Overview
 
 Flow:
